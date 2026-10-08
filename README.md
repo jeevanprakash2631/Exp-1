@@ -44,3 +44,13 @@ b. KCL:
 RESULT:
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
+## EXPERIMENT PHOTOS
+
+![Experiment Photo 1](10.png)
+
+![Experiment Photo 2](7.png)
+
+![Experiment Photo 3](ChatGPT%20Image%20Oct%207,%202026,%2007_2.png)
+
+![Experiment Photo 4](ChatGPT%20Image%20Oct%207,%202026,%2008_1.png)
+
