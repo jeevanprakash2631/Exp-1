@@ -52,5 +52,5 @@ Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
 
 ![Experiment Photo 3](ChatGPT%20Image%20Oct%207,%202026,%2007_2.png)
 
-![Experiment Photo 4](ChatGPT%20Image%20Oct%207,%202026,%2008_1.png)
+![Experiment Photo 4](ChatGPT Image Oct 7, 2026, 08_11_02 PM.png)
 
